@@ -14,7 +14,7 @@ var connection = mysql.createConnection({
 });
 //Connection to MySQL
 connection.connect(function (err) {
-    console.log("Connected as id: " + connection.threadId);
+   // console.log("Connected as id: " + connection.threadId);
     displayInventory();
 });
 // functions for validation
