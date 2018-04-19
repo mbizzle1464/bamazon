@@ -1,3 +1,3 @@
 # bamazon
 
-![Screenshot](img/sqlLoad.jpg)
+![Screenshot](img/sqlLoad.JPG)
