@@ -1,3 +1,3 @@
 # bamazon
 
-![Alt text](img/sqlLoad.jpg?raw=true "Bamazon")
+![Screenshot](img/sqlLoad.jpg)
